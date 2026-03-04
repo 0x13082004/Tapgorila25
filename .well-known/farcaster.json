@@ -10,34 +10,34 @@
   "subtitle": "Tap to earn pata", 
   "description": "Tap Bandor to earn pata and it's a funny game",
 
-  "iconUrl": "https://tapgorila25.vercel.app/assets/icon.png",
-  "imageUrl": "https://tapgorila25.vercel.app/assets/embed-3x2.png",
-  "homeUrl": "https://tapgorila25.vercel.app/",
-  "canonicalDomain": "tapgorila25.vercel.app",
+  "iconUrl": "https://arcade-anvil.vercel.app/assets/icon.png",
+  "imageUrl": "https://arcade-anvil.vercel.app/assets/embed-3x2.png",
+  "homeUrl": "https://arcade-anvil.vercel.app/",
+  "canonicalDomain": "arcade-anvil.vercel.app",
 
-  "splashImageUrl": "https://tapgorila25.vercel.app/assets/splash-200.png",
+  "splashImageUrl": "https://arcade-anvil.vercel.app/assets/splash-200.png",
   "splashBackgroundColor": "#000000",
   "primaryCategory": "games",
 
   "tags": ["game", "tap", "base", "miniapp"],
 
   "screenshotUrls": [
-    "https://tapgorila25.vercel.app/assets/screenshots/1.png",
-    "https://tapgorila25.vercel.app/assets/screenshots/2.png",
-    "https://tapgorila25.vercel.app/assets/screenshots/3.png"
+    "https://arcade-anvil.vercel.app/assets/screenshots/1.png",
+    "https://arcade-anvil.vercel.app/assets/screenshots/2.png",
+    "https://arcade-anvil.vercel.app/assets/screenshots/3.png"
   ],
 
-  "heroImageUrl": "https://tapgorila25.vercel.app/assets/hero-1200x630.png",
+  "heroImageUrl": "https://arcade-anvil.vercel.app/assets/hero-1200x630.png",
 
   "tagline": "Tap. Earn. Fun.",
 
   "ogTitle": "Bandor Tapper",
   "ogDescription": "Tap Bandor, earn pata, and climb the leaderboard!",
-  "ogImageUrl": "https://tapgorila25.vercel.app/assets/og-1200x630.png",
+  "ogImageUrl": "https://arcade-anvil.vercel.app/assets/og-1200x630.png",
 
   "noindex": false,
 
-  "webhookUrl": "https://tapgorila25.vercel.app/api/webhook",
+  "webhookUrl": "https://arcade-anvil.vercel.app/api/webhook",
 
   "requiredChains": ["eip155:8453"],
   "requiredCapabilities": ["actions.ready"]
